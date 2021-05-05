@@ -31,3 +31,9 @@
 - [From Problem to Approach and From Requirements to Collection](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/3.1.From-Problem-to-Approach-and-From-Requirements-to-Collection)
 - [From Understanding to Preparation](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/3.2.From-Understanding-to-Preparation)
 - [From Deployment to Feedback](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/3.3.From-Deployment-to-Feedback)
+
+---
+
+https://www.coursera.org/professional-certificates/ibm-data-science
+
+© 2021 Coursera Inc. All rights reserved.
