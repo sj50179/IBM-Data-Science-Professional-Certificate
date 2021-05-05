@@ -34,6 +34,4 @@
 
 ---
 
-https://www.coursera.org/professional-certificates/ibm-data-science
-
 © 2021 Coursera Inc. All rights reserved.
