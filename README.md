@@ -1,7 +1,7 @@
 # IBM Data Science Professional Certificate
 (https://www.coursera.org/professional-certificates/ibm-data-science)
 
-### My study notes (ince Feb 3, 2021)
+### My study notes (since Feb 3, 2021)
 
 ## 1. What is Data Science?
 - [Defining Data Science](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/1.1.1.Defining-Data-Science)
