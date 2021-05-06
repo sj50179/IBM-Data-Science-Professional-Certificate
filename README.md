@@ -31,6 +31,10 @@
 - [From Understanding to Preparation](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/3.2.From-Understanding-to-Preparation)
 - [From Deployment to Feedback](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/3.3.From-Deployment-to-Feedback)
 
+## 4. Python for Data Science, AI & Development
+- [Python Basics](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/4.1.Python-Basics)
+- [Python Data Structures](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/4.2.Python-Data-Structures)
+
 ---
 
 © 2021 Coursera Inc. All rights reserved.
