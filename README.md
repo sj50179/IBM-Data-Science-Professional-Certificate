@@ -34,6 +34,7 @@
 ## 4. Python for Data Science, AI & Development
 - [Python Basics](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/4.1.Python-Basics)
 - [Python Data Structures](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/4.2.Python-Data-Structures)
+- [Python Programming Fundamentals](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/4.3.Python-Programming-Fundamentals)
 
 ---
 
