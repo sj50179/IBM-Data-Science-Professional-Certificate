@@ -36,6 +36,7 @@
 - [Python Data Structures](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/4.2.Python-Data-Structures)
 - [Python Programming Fundamentals](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/4.3.Python-Programming-Fundamentals)
 - [Working with Data in Python](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/4.4.Working-with-Data-in-Python)
+- [APIs, and Data Collection](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/4.5.APIs,-and-Data-Collection)
 
 ---
 
