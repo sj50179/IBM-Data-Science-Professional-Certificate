@@ -40,7 +40,7 @@
 
 ## 5. Python Project for Data Science
 - [Crowdsourcing Short squeeze Dashboard](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/5.1.Crowdsourcing-Short-squeeze-Dashboard)
-- [Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/blob/main/5_Python%20Project%20for%20Data%20Science/3-Final%20Assignment.ipynb)
+- [Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/5.2.Peer-graded-Assignment-Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)
 
 ---
 
