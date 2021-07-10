@@ -42,6 +42,13 @@
 - [Crowdsourcing Short squeeze Dashboard](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/5.1.Crowdsourcing-Short-squeeze-Dashboard)
 - [Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/5.2.Peer-graded-Assignment-Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)
 
+## 6a. Data Engineering Foundations Specialization - Introduction to Relational Databases (RDBMS)
+- [Course Introduction](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/DEFS.4.0.Course-Introduction)
+- [Relational Database Concepts](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/DEFS.4.1.Relational-Database-Concepts)
+- [Using Relational Databases](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/DEFS.4.2.Using-Relational-Databases)
+- [MySQL and PostgreSQL](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/DEFS.4.3.MySQL-and-PostgreSQL)
+- [Course Assignment](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/DEFS.4.4.Course-Assignment)
+
 ---
 
 © 2021 Coursera Inc. All rights reserved.
