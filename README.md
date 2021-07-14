@@ -49,6 +49,7 @@
 - [MySQL and PostgreSQL](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/DEFS.4.3.MySQL-and-PostgreSQL)
 - [Course Assignment](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/DEFS.4.4.Course-Assignment)
 
+
 ---
 
 © 2021 Coursera Inc. All rights reserved.
