@@ -49,7 +49,44 @@
 - [MySQL and PostgreSQL](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/DEFS.4.3.MySQL-and-PostgreSQL)
 - [Course Assignment](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/DEFS.4.4.Course-Assignment)
 
+## 6. Databases and SQL for Data Science with Python
+- [Getting Started with SQL](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/6.1.Getting-Started-with-SQL)
+- [Introduction to Relational Databases and Tables](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/6.2.Introduction-to-Relational-Databases-and-Tables)
+- [Intermediate SQL](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/6.3.Intermediate-SQL)
+- [Accessing Databases using Python](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/6.4.Accessing-Databases-using-Python)
+- [Course Assignment](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/6.5.Course-Assignment)
+- [Bonus Module: Advanced SQL for Data Engineer](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/6.6.Bonus-Module:-Advanced-SQL-for-Data-Engineer)
 
+## 7. Data Analysis with Python
+- [Importing Datasets](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/7.1.Importing-Datasets/_edit)
+- [Data Wrangling](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/7.2.Data-Wrangling)
+- [Exploratory Data Analysis](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/7.3.Exploratory-Data-Analysis/_edit)
+- [Model Development](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/7.4.Model-Development)
+- [Model Evaluation](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/7.5.Model-Evaluation)
+- [Final Assignment](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/7.6.Final-Assignment)
+
+## 8. Data Visualization with Python
+- [Introduction to Data Visualization Tools](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/8.1.Introduction-to-Data-Visualization-Tools/_edit)
+- [Basic and Specialized Visualization Tools](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/8.2.Basic-and-Specialized-Visualization-Tools)
+- [Advanced Visualizations and Geospatial Data](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/8.3.Advanced-Visualizations-and-Geospatial-Data)
+- [Creating Dashboards with Plotly and Dash](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/8.4.Creating-Dashboards-with-Plotly-and-Dash)
+- [Final Project & Exam](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/8.5.Final-Project-&-Exam)
+
+## 9. Machine Learning with Python
+- [Introduction to Machine Learning](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/9.1.Introduction-to-Machine-Learning)
+- [Regression](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/9.2.Regression)
+- [Classification](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/9.3.Classification)
+- [Clustering](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/9.4.Clustering)
+- [Recommender Systems](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/9.5.Recommender-Systems)
+- [Final Project](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/9.6.Final-Project)
+
+## 10. Applied Data Science Capstone
+- [Introduction](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/10.1.Introduction)
+- [Exploratory Data Analysis (EDA)](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/10.2.Exploratory-Data-Analysis-(EDA))
+- [Interactive Visual Analytics and Dashboard](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/10.3.Interactive-Visual-Analytics-and-Dashboard)
+- [Predictive Analysis (Classification)](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/10.4.Predictive-Analysis-(Classification))
+- [Present Your Data-Driven Insights](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/10.5.Present-Your-Data-Driven-Insights)
+- 
 ---
 
 © 2021 Coursera Inc. All rights reserved.
