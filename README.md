@@ -1,6 +1,9 @@
 # [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-### My study notes (since Feb 3, 2021)
+### Study notes (Feb 3, 2021 - Nov 5, 2021)
+
+### [My Certificate URL](https://www.coursera.org/account/accomplishments/professional-cert/7FDCVUSMTL89)
+![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7FDCVUSMTL89/CERTIFICATE_LANDING_PAGE~7FDCVUSMTL89.jpeg)
 
 ## 1. What is Data Science?
 - [Defining Data Science](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/1.1.1.Defining-Data-Science)
