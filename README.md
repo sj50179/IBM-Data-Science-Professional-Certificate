@@ -1,9 +1,25 @@
 # [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-### Study notes (Feb 3, 2021 - Nov 5, 2021)
-
 ### [My Certificate URL](https://www.coursera.org/account/accomplishments/professional-cert/7FDCVUSMTL89)
 ![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7FDCVUSMTL89/CERTIFICATE_LANDING_PAGE~7FDCVUSMTL89.jpeg)
+
+---
+
+### About this Professional Certificate
+
+Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience. 
+
+The program consists of 9 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.
+
+This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you practical skills with applicability to real jobs, including: 
+
+**Tools**: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio 
+
+**Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc. 
+
+**Projects**: random album generator, predict housing prices, best classifier model, Predicting successful rocket landing, dashboa rd and interactive map
+
+---
 
 ## 1. What is Data Science?
 - [Defining Data Science](https://github.com/brendensong/IBM-Data-Science-Professional-Certificate/wiki/1.1.1.Defining-Data-Science)
